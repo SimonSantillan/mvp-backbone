@@ -1,0 +1,541 @@
+[
+  {
+    "link": "tres-de-febrero",
+    "sucursal": "3 de Febrero",
+    "direccion": "Caseros 1678, B1678 Caseros Partido de Tres de Febrero, Provincia de Buenos Aires",
+    "telefono": "(011) 4758-6780",
+    "foto": "/images/concesionarias/tres-de-febrero.jpg",
+    "autos": [
+      {
+        "marca": "volkswagen",
+        "modelo": "scirocco",
+        "anio": 2016,
+        "color": "black",
+        "foto": "/images/autos/tres-de-febrero/scirocco-black.jpg"
+      },
+      {
+        "marca": "peugeot",
+        "modelo": "207",
+        "anio": 2020,
+        "color": "red",
+        "foto": "/images/autos/tres-de-febrero/207-red.jpg"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "cruze",
+        "anio": 2020,
+        "color": "white",
+        "foto": "/images/autos/tres-de-febrero/cruze-white.webp"
+      },
+      {
+        "marca": "nissan",
+        "modelo": "x-trail",
+        "anio": 2020,
+        "color": "brown",
+        "foto": "/images/autos/tres-de-febrero/xtrail-brown.webp"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "onix",
+        "anio": 2017,
+        "color": "white",
+        "foto": "/images/autos/tres-de-febrero/onix-2017.webp"
+      },
+      {
+        "marca": "renault",
+        "modelo": "kangoo",
+        "anio": 2016,
+        "color": "black",
+        "foto": "/images/autos/tres-de-febrero/kangoo-2016.jpg"
+      },
+      {
+        "marca": "audi",
+        "modelo": "a3",
+        "anio": 2020,
+        "color": "black",
+        "foto": "/images/autos/tres-de-febrero/a3-negro.jpg"
+      },
+
+      {
+        "marca": "volkswagen",
+        "modelo": "golf",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/tres-de-febrero/golf-2020.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "amarok",
+        "anio": 2010,
+        "color": "gray",
+        "foto": "/images/autos/tres-de-febrero/amarok-2010.jpg"
+      },
+      {
+        "marca": "renault",
+        "modelo": "captur",
+        "anio": 2020,
+        "color": "orange",
+        "foto": "/images/autos/tres-de-febrero/captur-2020.jpg"
+      },
+      {
+        "marca": "ford",
+        "modelo": "focus",
+        "anio": 2014,
+        "color": "blue",
+        "foto": "/images/autos/tres-de-febrero/focus-2014.jpg"
+      },
+      {
+        "marca": "ford",
+        "modelo": "ka",
+        "anio": 2020,
+        "color": "red",
+        "foto": "/images/autos/tres-de-febrero/ka-2020.jpg"
+      },
+      {
+        "marca": "toyota",
+        "modelo": "etios",
+        "anio": 2020,
+        "color": "black",
+        "foto": "/images/autos/tres-de-febrero/etios-negro.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "gol",
+        "anio": 2020,
+        "color": "white",
+        "foto": "/images/autos/tres-de-febrero/gol-2020.jpg"
+      }
+    ]
+  },
+  {
+    "link": "pilar",
+    "sucursal": "Pilar",
+    "direccion": "Au Panamericana KM 51, B1629 Pilar, Provincia de Buenos Aires",
+    "telefono": "(0230) 466-3000",
+    "foto": "/images/concesionarias/pilar.jpg",
+    "autos": [
+      {
+        "marca": "fiat",
+        "modelo": "toro",
+        "anio": 2019,
+        "color": "black",
+        "foto": "/images/autos/pilar/toro-negro.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "vento",
+        "anio": 2019,
+        "color": "black",
+        "foto": "/images/autos/pilar/vento-negro.jpg"
+      },
+      {
+        "marca": "ford",
+        "modelo": "focus",
+        "anio": 2014,
+        "color": "blue",
+        "foto": "/images/autos/pilar/focus-azul.webp"
+      },
+      {
+        "marca": "ford",
+        "modelo": "fiesta",
+        "anio": 2010,
+        "color": "white",
+        "foto": "/images/autos/pilar/fiesta-blanco.webp"
+      },
+      {
+        "marca": "nissan",
+        "modelo": "x-trail",
+        "anio": 2020,
+        "color": "brown",
+        "foto": "/images/autos/pilar/xtrail-marron.jpg"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "onix",
+        "anio": 2017,
+        "color": "white",
+        "foto": "/images/autos/pilar/onix-blanco.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "amarok",
+        "anio": 2020,
+        "color": "black",
+        "foto": "/images/autos/pilar/amarok-negro.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "golf",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/pilar/golf-gray.jpg"
+      },
+      {
+        "marca": "renault",
+        "modelo": "captur",
+        "anio": 2020,
+        "color": "orange",
+        "foto": "/images/autos/pilar/renault-naranja.jpg"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "camaro",
+        "anio": 20120,
+        "color": "yellow",
+        "foto": "/images/autos/pilar/camaro-amarillo.webp"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "gol",
+        "anio": 2018,
+        "color": "black",
+        "foto": "/images/autos/pilar/gol-negro.webp"
+      },
+      {
+        "marca": "toyota",
+        "modelo": "etios",
+        "anio": 2020,
+        "color": "white",
+        "foto": "/images/autos/pilar/etios-blanco.jpg"
+      },
+      {
+        "marca": "ford",
+        "modelo": "ka",
+        "anio": 2020,
+        "color": "green",
+        "foto": "/images/autos/pilar/ford-ka-verde.jpg"
+      }
+    ]
+  },
+
+  {
+    "link": "lanus",
+    "sucursal": "Lanus",
+    "direccion": "Remedios de Escalada de San Martín 1584, B1822AAD Lanús Oeste, Provincia de Buenos Aires",
+    "telefono": "(011) 4208-1514",
+    "foto": "/images/concesionarias/lanus.webp",
+    "autos": [
+      {
+        "marca": "volkswagen",
+        "modelo": "amarok",
+        "anio": 2019,
+        "color": "white",
+        "foto": "/images/autos/lanus/amarok-blanco.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "amarok",
+        "anio": 2010,
+        "color": "gray",
+        "foto": "/images/autos/lanus/amarok-gris.webp"
+      },
+      {
+        "marca": "audi",
+        "modelo": "tt",
+        "anio": 2019,
+        "color": "white",
+        "foto": "/images/autos/lanus/tt-blanco.jpg"
+      },
+      {
+        "marca": "audi",
+        "modelo": "tt",
+        "anio": 2012,
+        "color": "black",
+        "foto": "/images/autos/lanus/tt-negro.jpg"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "cruze",
+        "anio": 2018,
+        "color": "black",
+        "foto": "/images/autos/lanus/cruze-negro.jpg"
+      },
+
+      {
+        "marca": "audi",
+        "modelo": "q5",
+        "anio": 2018,
+        "color": "black",
+        "foto": "/images/autos/lanus/q5-negro.jpg"
+      },
+      {
+        "marca": "audi",
+        "modelo": "q5",
+        "anio": 2015,
+        "color": "blue",
+        "foto": "/images/autos/lanus/q5-azul.jpg"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "camaro",
+        "anio": 2015,
+        "color": "red",
+        "foto": "/images/autos/lanus/camaro-rojo.jpg"
+      },
+      {
+        "marca": "renault",
+        "modelo": "captur",
+        "anio": 2020,
+        "color": "orange",
+        "foto": "/images/autos/lanus/captura-naranja.jpg"
+      },
+      {
+        "marca": "fiat",
+        "modelo": "argo",
+        "anio": 2020,
+        "color": "white",
+        "foto": "/images/autos/lanus/fiar-argo-blanco.jpg"
+      },
+      {
+        "marca": "renault",
+        "modelo": "duster",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/lanus/duster-gris.jpg"
+      },
+      {
+        "marca": "renault",
+        "modelo": "sandero",
+        "anio": 2020,
+        "color": "blue",
+        "foto": "/images/autos/lanus/sandero-azul.jpg"
+      },
+      {
+        "marca": "ford",
+        "modelo": "ka",
+        "anio": 2020,
+        "color": "green",
+        "foto": "/images/autos/lanus/ka-verde.jpg"
+      },
+      {
+        "marca": "peugeot",
+        "modelo": "partner",
+        "anio": 2020,
+        "color": "white",
+        "foto": "/images/autos/lanus/partner-blanco.jpg"
+      },
+      {
+        "marca": "toyota",
+        "modelo": "hilux",
+        "anio": 2020,
+        "color": "white",
+        "foto": "/images/autos/lanus/hilux-blanco.jpg"
+      },
+      {
+        "marca": "fiat",
+        "modelo": "cronos",
+        "anio": 2020,
+        "color": "red",
+        "foto": "/images/autos/lanus/cronos-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "link": "quilmes",
+    "sucursal": "Quilmes",
+    "direccion": "Av. Hipólito Yrigoyen 80, B1878 Quilmes, Provincia de Buenos Aires",
+    "telefono": "(0230) 466-3000",
+    "foto": "/images/concesionarias/quilmes.jpg",
+    "autos": [
+      {
+        "marca": "chevrolet",
+        "modelo": "camaro",
+        "anio": 2020,
+        "color": "black",
+        "foto": "/images/autos/quilmes/camaro-negro.webp"
+      },
+      {
+        "marca": "nissan",
+        "modelo": "note",
+        "anio": 2020,
+        "color": "white",
+        "foto": "/images/autos/quilmes/note-blanco.jpg"
+      },
+
+      {
+        "marca": "chevrolet",
+        "modelo": "onix",
+        "anio": 2019,
+        "color": "red",
+        "foto": "/images/autos/quilmes/onix-rojo.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "scirocco",
+        "anio": 2015,
+        "color": "white",
+        "foto": "/images/autos/quilmes/siroco-blanco.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "golf",
+        "anio": 2016,
+        "color": "white",
+        "foto": "/images/autos/quilmes/golf-blanco.jpg"
+      },
+      {
+        "marca": "nissan",
+        "modelo": "sentra",
+        "anio": 2017,
+        "color": "black",
+        "foto": "/images/autos/quilmes/sentra-negro.jpg"
+      },
+      {
+        "marca": "citroen",
+        "modelo": "c4",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/quilmes/c4-gris.jpg"
+      },
+      {
+        "marca": "citroen",
+        "modelo": "berlingo",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/quilmes/berlingo-gris.webp"
+      },
+      {
+        "marca": "peugeot",
+        "modelo": "208",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/quilmes/208-gris.jpg"
+      },
+      {
+        "marca": "fiat",
+        "modelo": "fiorino",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/quilmes/fiorino-gris.jpg"
+      },
+      {
+        "marca": "toyota",
+        "modelo": "etios",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/quilmes/etios-gris.jpg"
+      },
+      {
+        "marca": "ford",
+        "modelo": "ecosport",
+        "anio": 2015,
+        "color": "red",
+        "foto": "/images/autos/quilmes/ecoesport-rojo.jpg"
+      },
+      {
+        "marca": "chery",
+        "modelo": "tiggo",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/quilmes/tiggo-gray.jpg"
+      },
+      {
+        "marca": "renault",
+        "modelo": "sandero",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/quilmes/sandero-gris.webp"
+      }
+    ]
+  },
+  {
+    "link": "san-miguel",
+    "sucursal": "San Miguel",
+    "direccion": "Av. Pres. Juan Domingo Perón 2043, B1663 San Miguel, Provincia de Buenos Aires",
+    "telefono": "(011) 4451-5565",
+    "foto": "/images/concesionarias/san-miguel.jpg",
+    "autos": [
+      {
+        "marca": "nissan",
+        "modelo": "note",
+        "anio": 2018,
+        "color": "red",
+        "foto": "/images/autos/san-miguel/note-rojo.jpg"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "camaro",
+        "anio": 2018,
+        "color": "white",
+        "foto": "/images/autos/san-miguel/camaro-blanco.webp"
+      },
+      {
+        "marca": "chevrolet",
+        "modelo": "onix",
+        "anio": 2016,
+        "color": "gray",
+        "foto": "/images/autos/san-miguel/onix-gris.jpg"
+      },
+      {
+        "marca": "honda",
+        "modelo": "civic",
+        "anio": 2020,
+        "color": "black",
+        "foto": "/images/autos/san-miguel/civic-negro.jpg"
+      },
+      {
+        "marca": "audi",
+        "modelo": "a6",
+        "anio": 2016,
+        "color": "red",
+        "foto": "/images/autos/san-miguel/a6-rojo.jpg"
+      },
+      {
+        "marca": "nissan",
+        "modelo": "x-trail",
+        "anio": 2016,
+        "color": "gray",
+        "foto": "/images/autos/san-miguel/xtrail-gris.jpg"
+      },
+      {
+        "marca": "peugeot",
+        "modelo": "2008",
+        "anio": 2020,
+        "color": "green",
+        "foto": "/images/autos/san-miguel/2008-verde.webp"
+      },
+      {
+        "marca": "toyota",
+        "modelo": "hilux",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/san-miguel/hilux-gris.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "saveiro",
+        "anio": 2020,
+        "color": "blue",
+        "foto": "/images/autos/san-miguel/saveiro-azul.jpg"
+      },
+      {
+        "marca": "volkswagen",
+        "modelo": "golf",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/san-miguel/golf-gris.jpg"
+      },
+      {
+        "marca": "fiat",
+        "modelo": "palio",
+        "anio": 2017,
+        "color": "white",
+        "foto": "/images/autos/san-miguel/palio-blanco.jpg"
+      },
+      {
+        "marca": "peugeot",
+        "modelo": "307",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/san-miguel/307-gris.jpg"
+      },
+      {
+        "marca": "renault",
+        "modelo": "sandero",
+        "anio": 2020,
+        "color": "gray",
+        "foto": "/images/autos/san-miguel/sandero-gris.jpg"
+      }
+    ]
+  }
+]
