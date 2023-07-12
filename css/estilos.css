@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+.header {
+  width: 100%;
+  background-color: #333;
+  padding: 15px;
+}
+
+.header > div {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  color: aliceblue;
+}
+
+.header h2 {
+  margin-bottom: 5px;
+}
+.header select {
+  width: 100%;
+}
+
+.main {
+  width: 100%;
+}
+.main > div {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+#car-image-container {
+  padding-top: 50px;
+  width: 600px;
+  margin: 0 auto;
+}
+.car-image {
+  display: block;
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+}
+
+
